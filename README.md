@@ -1,2 +1,22 @@
-# goalgenie-backend
-GoalGenie Backend: AI-powered career guidance platform that helps users create personalized roadmaps, track their progress, and discover career opportunities
+# GoalGenie Backend
+
+GoalGenie Backend is part of the GoalGenie AI-powered career guidance platform. This backend handles user data, creates personalized career roadmaps, tracks user progress, and helps users discover potential career opportunities based on their responses.
+
+## Features
+- AI-driven career path analysis
+- Personalized career roadmaps
+- Job opportunities based on user interests and background
+- Real-time progress tracking and guidance
+
+## Technologies Used
+- Node.js
+- Express.js
+- MongoDB (via Mongoose)
+- AI Integration (for career recommendations)
+
+## Setup Instructions
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/goalgenie-backend.git
+cd goalgenie-backend
