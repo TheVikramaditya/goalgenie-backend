@@ -18,5 +18,5 @@ GoalGenie Backend is part of the GoalGenie AI-powered career guidance platform. 
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/goalgenie-backend.git
+https://github.com/TheVikramaditya/goalgenie-backend.git
 cd goalgenie-backend
